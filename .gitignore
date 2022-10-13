@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+PUBLICATION_REVIEW.md
+README.draft.md
+README.draft.*
+*.draft.md
